@@ -104,11 +104,15 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 - Created names, slogans and nomenclature systems for industries ranging from healthcare to education and fashion
 - Managed sales and client relationships. Storience is among Romania’s top five branding agencies by turnover
 - Developed and delivered branding and communication training to professional audiences in Bucharest and London.
-**Associate Professor: UNIVERSITY OF BUCHAREST** (Bucharest, RO) Oct 2007 - Jun 2014    
+
+**Associate Professor: UNIVERSITY OF BUCHAREST** (Bucharest, RO) Oct 2007 - Jun 2014
+
 - Developed and taught the Strategic Brand Management course to post-graduate students at the Faculty of Journalism and Communication Sciences
 - Accumulated over 300 hours of university teaching
 - Achieved top attendance and student satisfaction levels every year.
-**Co-founder & Strategy Director: GRAPEFRUIT** (Bucharest, RO) Nov 1999 - Jun 2012   
+
+**Co-founder & Strategy Director: GRAPEFRUIT** (Bucharest, RO) Nov 1999 - Jun 2012
+
 - Co-founded this branding and digital agency with 2 other fellow medical students
 - Coordinated all branding projects; over a dozen have won international awards (Transform Awards - 2011; ReBrand 100 - 2011, 2010, 2009 and 2007; Pentawards - 2011, 2009, 2008 and 2007; Best of the Best - 2007).
 - Developed brand strategies for close to 100 brands (brand definitions, architecture, management plans) in a wide range of industries, from non-profits to energy.
