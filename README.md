@@ -12,16 +12,25 @@ Projects | Skills | Education | Experience | Interests | Contact
 
 Here are some of the things that made me happy while programming, before and during the Makers Academy pre-course.
 
+
 Project: projectSnitch
+
 Summary: Using a Raspberry Pi and some simple wiring via its GPIO ports, I devised a very crude flooding detector (my home boiler is finicky). The detector is designed to turn on a LED (and potentially send a text) if water accumulates on my kitchen floor and thus closes an electrical circuit.
+
 Technology: JavaScript, Cylon.js
 
+
 Project: The Millionth Fibonacci Kata (Codewars.com)
+
 Summary: While preparing for the pre-course, I took on a kata way above my current Codewars rank because I was fascinated by the mathematical apparatus behind it. I read about it in an MIT textbook, solved an equation and translated everything into working Ruby code. Note that the kata required an efficient algorithm, not just solving a problem.
+
 Technology: Ruby
 
+
 Project: Statistics for an Athletic Association (Codewars.com)
+
 Summary: This was one of my first katas done with pair programming. It wasn't particularly hard to solve, but the thought dynamics and the collaboration pair programming allows were a watershed moment. Working with someone else is so much more powerful and rewarding than working alone. I had a lot to learn from it.
+
 Technology: Ruby, PP (pair programming ;-))
 
 ## Skills
