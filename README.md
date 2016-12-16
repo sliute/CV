@@ -1,37 +1,22 @@
 ## Stefan Liute
 
-I am a medical doctor turned brand strategist turned (soon-to-be) Junior Developer. A collaborative, multi-disciplinary, human-centred view of the future drives me, and I am very much in love with what I do.
+I am a brand strategist and twice co-founder turned Junior Developer. A collaborative, multi-disciplinary, human-centred view of the future drives me, and I am very much in love with what I do.
 
-Having just completed the 4-week pre-course at Makers Academy, my passion for programming has blossomed. It is now more focused and encompasses much more than simply writing code that runs.
+Having just completed the 4-week pre-course at [Makers Academy](http://github.com/makersacademy), my passion for programming has blossomed. It is now more focused and encompasses much more than simply writing code that runs. But we'll see if it and I survive the upcoming 12-week course :smirk:
 
-After I graduate the 12-week course at the end of March 2017, I will begin a career in software development in London. Ideally, I will work somewhere I can learn all the time. I dream of contributing to technology that changes people's lives for the better.
+After I graduate the Makers Academy at the end of March 2017, I will begin a career in software development in London. Ideally, I will work somewhere I can learn all the time. I dream of contributing to technology that changes people's lives for the better.
 
-Projects | Skills | Education | Experience | Interests | Contact
+[Projects](http://www.github.com/sliute#Projects) | [Skills](http://www.github.com/sliute#Skills) | [Education](http://www.github.com/sliute#Education) | [Experience](http://www.github.com/sliute#Experience) | [Interests](http://www.github.com/sliute#Interests) | [Contact](http://www.github.com/sliute#Contact)
 
 ## Projects
 
 Here are some of the things that made me happy while programming, before and during the Makers Academy pre-course.
 
-
-Project: projectSnitch
-
-Summary: Using a Raspberry Pi and some simple wiring via its GPIO ports, I devised a very crude flooding detector (my home boiler is finicky). The detector is designed to turn on a LED (and potentially send a text) if water accumulates on my kitchen floor and thus closes an electrical circuit.
-
-Technology: JavaScript, Cylon.js
-
-
-Project: The Millionth Fibonacci Kata (Codewars.com)
-
-Summary: While preparing for the pre-course, I took on a kata way above my current Codewars rank because I was fascinated by the mathematical apparatus behind it. I read about it in an MIT textbook, solved an equation and translated everything into working Ruby code. Note that the kata required an efficient algorithm, not just solving a problem.
-
-Technology: Ruby
-
-
-Project: Statistics for an Athletic Association (Codewars.com)
-
-Summary: This was one of my first katas done with pair programming. It wasn't particularly hard to solve, but the thought dynamics and the collaboration pair programming allows were a watershed moment. Working with someone else is so much more powerful and rewarding than working alone. I had a lot to learn from it.
-
-Technology: Ruby, PP (pair programming ;-))
+| Project | Summary | Technologies |
+| --- | --- | --- |
+| [projectSnitch](http://github.com/sliute/projectSnitch) | Using a Raspberry Pi and some simple wiring via its GPIO ports, I devised a very crude flooding detector (my home boiler is finicky). The detector is designed to turn on a LED (and potentially send a text) if water accumulates on my kitchen floor and thus closes an electrical circuit. | JavaScript, Cylon.js |
+| [The Millionth Fibonacci Kata (Codewars)](https://github.com/sliute/codewars/blob/master/CW-22-themillionthfibonaccikata.rb) | While preparing for the pre-course, I took on a kata way above my current Codewars rank because I was fascinated by the mathematical apparatus behind it. I read about it in an MIT textbook, solved an equation and translated everything into working Ruby code. Note that the kata required an efficient algorithm, not just solving a problem. | Ruby |
+| [Statistics for an Athletic Association (Codewars)](https://github.com/sliute/codewars/blob/master/CW-29-statisticsforanathleticassociation.rb) | This was one of my first katas done with pair programming. It wasn't particularly hard to solve, but the thought dynamics and the collaboration pair programming allows were a watershed moment. Working with someone else is so much more powerful and rewarding than working alone. I had a lot to learn from it. | Ruby, pair programming :smirk: |
 
 ## Skills
 
@@ -59,7 +44,7 @@ I can tell a good story, but I couldn't do it if I didn't know how to listen fir
 
 #### Entrepreneurship
 
-I co-founded a branding and digital agency (www.grapefruit.ro), as well as a pure-play branding consultancy (www.storience.com). Most of my customers have been entrepreneurs themselves. The strategy and communication work I did propelled most them to significant business achievements such as growth, expansion, successful exits, turnarounds etc.
+I co-founded [a branding and digital agency](www.grapefruit.ro), as well as [a pure-play branding consultancy](www.storience.com). Most of my customers have been entrepreneurs themselves. The strategy and communication work I did propelled most them to significant business achievements such as growth, expansion, successful exits, turnarounds etc.
 
 My entrepreneurial spirit derives from my inclination towards strategic thinking and teamwork. In turn, it fostered adaptation and flexibility (whoever heard of change-fearing entrepreneurs?), as well as commitment to a purpose and to the people who choose to pursue it with you. In plain English, that's doggedness and loyalty.
 
@@ -78,7 +63,7 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 
 ## Education
 
-#### **Makers Academy** (London, UK), January-March 2017
+#### [Makers Academy](www.makersacademy.com) (London, UK), January-March 2017
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -87,47 +72,47 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### **Faculty of Communication and Public Relations, SNSPA** (Bucharest, RO), 2002-2004
+#### [Faculty of Communication and Public Relations](http://comunicare.ro/en/), SNSPA (Bucharest, RO), 2002-2004
 
 - MA equiv. (post-graduate degree) in Communication and Public Relations
 - Interest in corporate branding
 
-#### **Faculty of Medicine, Gr. T. Popa University of Medicine and Pharmacy** (Iasi, RO), 1994-2000
+#### [Faculty of Medicine](http://www.umfiasi.ro/Facultati/FACULTATEA%20DE%20MEDICINA/Pagini/Default.aspx), Gr. T. Popa University of Medicine and Pharmacy (Iasi, RO), 1994-2000
 
 - MD degree with honours
 - Interest in medical imaging
 
 #### Other qualifications
 
-- Python, Ruby, JavaScript, HTML & CSS: online courses at Codecademy.com
-- Introduction to agile methodology: in-house training at Grapefruit
-- Intellectual property: online course at WIPO.int
+- Python, Ruby, JavaScript, HTML & CSS: online courses at [Codecademy](www.codecademy.com)
+- Introduction to agile methodology: in-house training at [Grapefruit](www.grapefruit.ro)
+- Intellectual property: online course at [WIPO](www.wipo.int)
 
 ## Experience
 
-**Co-founder & Strategy Director: STORIENCE** (London, UK) Jul 2012 - Dec 2016
+**Co-founder & Strategy Director: [STORIENCE](www.storience.com)** (London, UK) Jul 2012 - present
 - Co-founded this branding consultancy with colleague and partner Adriana Liute, and expanded into London in September 2014    
 - Coordinated all branding projects; two of them have won international awards (Transform Awards - 2013, A’ Design Awards – 2014, Transform Awards North America - 2015)
 - Developed brand strategies for over a dozen brands (brand definitions, architecture, management plans)
 - Provided creative direction to the design team; worked with multiple graphic & web designers on over 50 digital and non-digital projects
 - Created names, slogans and nomenclature systems for industries ranging from healthcare to education and fashion
 - Managed sales and client relationships. Storience is among Romania’s top five branding agencies by turnover
-- Developed and delivered branding and communication training to professional audiences in Bucharest and London.
+- Developed and delivered branding and communication training to professional audiences in Bucharest and London
 
-**Associate Professor: UNIVERSITY OF BUCHAREST** (Bucharest, RO) Oct 2007 - Jun 2014
+**Associate Professor: [UNIVERSITY OF BUCHAREST](www.unibuc.ro)** (Bucharest, RO) Oct 2007 - Jun 2014
 
 - Developed and taught the Strategic Brand Management course to post-graduate students at the Faculty of Journalism and Communication Sciences
 - Accumulated over 300 hours of university teaching
-- Achieved top attendance and student satisfaction levels every year.
+- Achieved top attendance and student satisfaction levels every year
 
-**Co-founder & Strategy Director: GRAPEFRUIT** (Bucharest, RO) Nov 1999 - Jun 2012
+**Co-founder & Strategy Director: [GRAPEFRUIT](www.grapefruit.ro)** (Bucharest, RO) Nov 1999 - Jun 2012
 
 - Co-founded this branding and digital agency with 2 other fellow medical students
-- Coordinated all branding projects; over a dozen have won international awards (Transform Awards - 2011; ReBrand 100 - 2011, 2010, 2009 and 2007; Pentawards - 2011, 2009, 2008 and 2007; Best of the Best - 2007).
-- Developed brand strategies for close to 100 brands (brand definitions, architecture, management plans) in a wide range of industries, from non-profits to energy.
+- Coordinated all branding projects; over a dozen have won international awards (Transform Awards - 2011; ReBrand 100 - 2011, 2010, 2009 and 2007; Pentawards - 2011, 2009, 2008 and 2007; Best of the Best - 2007)
+- Developed brand strategies for close to 100 brands (brand definitions, architecture, management plans) in a wide range of industries, from non-profits to energy
 - Provided creative direction to the design team; worked with multiple graphic & web designers on over 200 digital and non-digital projects
-- Created dozens of names, slogans and nomenclature systems for various brands, from startups to corporations.
-- Managed sales and client relationships in branding-related projects. Before deciding to focus solely on digital products and strategies, Grapefruit was Romania’s top branding agency by turnover in 2011-2012.
+- Created dozens of names, slogans and nomenclature systems for various brands, from startups to corporations
+- Managed sales and client relationships in branding-related projects. Before deciding to focus solely on digital products and strategies, Grapefruit was Romania’s top branding agency by turnover in 2011-2012
 
 ## Interests
 - computer programming
@@ -136,10 +121,10 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 - history and geopolitics
 - strategy games
 - swimming
-- cycling.
+- cycling
 
 ## Contact
-- Github: ...
-- LinkedIn: ...
-- Twitter: ...
-- Codewars: ...
+- [Github](github.com/sliute)
+- [LinkedIn](uk.linkedin.com/in/stefanliute)
+- [Twitter](www.twitter.com/stefanliute)
+- [Codewars](www.codewars.com/users/sliute)
