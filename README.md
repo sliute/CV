@@ -6,7 +6,7 @@ Having just completed the 4-week pre-course at [Makers Academy](http://github.co
 
 After I graduate the Makers Academy at the end of March 2017, I will begin a career in software development in London. Ideally, I will work somewhere I can learn all the time. I dream of contributing to technology that changes people's lives for the better.
 
-[Projects](http://www.github.com/sliute#Projects) | [Skills](http://www.github.com/sliute#Skills) | [Education](http://www.github.com/sliute#Education) | [Experience](http://www.github.com/sliute#Experience) | [Interests](http://www.github.com/sliute#Interests) | [Contact](http://www.github.com/sliute#Contact)
+[Projects](http://www.github.com/sliute/CV/README.md#Projects) | [Skills](http://www.github.com/sliute/CV/README.md#Skills) | [Education](http://www.github.com/sliute/CV/README.md#Education) | [Experience](http://www.github.com/sliute/CV/README.md#Experience) | [Interests](http://www.github.com/sliute/CV/README.md#Interests) | [Contact](http://www.github.com/sliute/CV/README.md#Contact)
 
 ## Projects
 
@@ -44,7 +44,7 @@ I can tell a good story, but I couldn't do it if I didn't know how to listen fir
 
 #### Entrepreneurship
 
-I co-founded [a branding and digital agency](www.grapefruit.ro), as well as [a pure-play branding consultancy](www.storience.com). Most of my customers have been entrepreneurs themselves. The strategy and communication work I did propelled most them to significant business achievements such as growth, expansion, successful exits, turnarounds etc.
+I co-founded [a branding and digital agency](http://www.grapefruit.ro), as well as [a pure-play branding consultancy](http://www.storience.com). Most of my customers have been entrepreneurs themselves. The strategy and communication work I did propelled most them to significant business achievements such as growth, expansion, successful exits, turnarounds etc.
 
 My entrepreneurial spirit derives from my inclination towards strategic thinking and teamwork. In turn, it fostered adaptation and flexibility (whoever heard of change-fearing entrepreneurs?), as well as commitment to a purpose and to the people who choose to pursue it with you. In plain English, that's doggedness and loyalty.
 
@@ -63,7 +63,7 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 
 ## Education
 
-#### [Makers Academy](www.makersacademy.com) (London, UK), January-March 2017
+#### [Makers Academy](http://www.makersacademy.com) (London, UK), January-March 2017
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -84,13 +84,13 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 
 #### Other qualifications
 
-- Python, Ruby, JavaScript, HTML & CSS: online courses at [Codecademy](www.codecademy.com)
-- Introduction to agile methodology: in-house training at [Grapefruit](www.grapefruit.ro)
-- Intellectual property: online course at [WIPO](www.wipo.int)
+- Python, Ruby, JavaScript, HTML & CSS: online courses at [Codecademy](http://www.codecademy.com)
+- Introduction to agile methodology: in-house training at [Grapefruit](http://www.grapefruit.ro)
+- Intellectual property: online course at [WIPO](http://www.wipo.int)
 
 ## Experience
 
-**Co-founder & Strategy Director: [STORIENCE](www.storience.com)** (London, UK) Jul 2012 - present
+**Co-founder & Strategy Director: [STORIENCE](http://www.storience.com)** (London, UK) Jul 2012 - present
 - Co-founded this branding consultancy with colleague and partner Adriana Liute, and expanded into London in September 2014    
 - Coordinated all branding projects; two of them have won international awards (Transform Awards - 2013, A’ Design Awards – 2014, Transform Awards North America - 2015)
 - Developed brand strategies for over a dozen brands (brand definitions, architecture, management plans)
@@ -99,13 +99,13 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 - Managed sales and client relationships. Storience is among Romania’s top five branding agencies by turnover
 - Developed and delivered branding and communication training to professional audiences in Bucharest and London
 
-**Associate Professor: [UNIVERSITY OF BUCHAREST](www.unibuc.ro)** (Bucharest, RO) Oct 2007 - Jun 2014
+**Associate Professor: [UNIVERSITY OF BUCHAREST](http://www.unibuc.ro)** (Bucharest, RO) Oct 2007 - Jun 2014
 
 - Developed and taught the Strategic Brand Management course to post-graduate students at the Faculty of Journalism and Communication Sciences
 - Accumulated over 300 hours of university teaching
 - Achieved top attendance and student satisfaction levels every year
 
-**Co-founder & Strategy Director: [GRAPEFRUIT](www.grapefruit.ro)** (Bucharest, RO) Nov 1999 - Jun 2012
+**Co-founder & Strategy Director: [GRAPEFRUIT](http://www.grapefruit.ro)** (Bucharest, RO) Nov 1999 - Jun 2012
 
 - Co-founded this branding and digital agency with 2 other fellow medical students
 - Coordinated all branding projects; over a dozen have won international awards (Transform Awards - 2011; ReBrand 100 - 2011, 2010, 2009 and 2007; Pentawards - 2011, 2009, 2008 and 2007; Best of the Best - 2007)
@@ -124,7 +124,7 @@ My entrepreneurial spirit derives from my inclination towards strategic thinking
 - cycling
 
 ## Contact
-- [Github](github.com/sliute)
-- [LinkedIn](uk.linkedin.com/in/stefanliute)
-- [Twitter](www.twitter.com/stefanliute)
-- [Codewars](www.codewars.com/users/sliute)
+- [Github](http://github.com/sliute)
+- [LinkedIn](http://uk.linkedin.com/in/stefanliute)
+- [Twitter](http://www.twitter.com/stefanliute)
+- [Codewars](http://www.codewars.com/users/sliute)
