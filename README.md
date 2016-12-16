@@ -6,7 +6,7 @@ Having just completed the 4-week pre-course at [Makers Academy](http://github.co
 
 After I graduate the Makers Academy at the end of March 2017, I will begin a career in software development in London. Ideally, I will work somewhere I can learn all the time. I dream of contributing to technology that changes people's lives for the better.
 
-[Projects](http://www.github.com/sliute/CV/#Projects) | [Skills](http://www.github.com/sliute/CV/#Skills) | [Education](http://www.github.com/sliute/CV/#Education) | [Experience](http://www.github.com/sliute/CV/#Experience) | [Interests](http://www.github.com/sliute/CV/#Interests) | [Contact](http://www.github.com/sliute/CV/#Contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 ## Projects
 
