@@ -6,7 +6,7 @@ I'm the analytic type. I'm curious, so I learn a lot, all the time. I also make 
 
 I love programming for the kind of challenges it offers: they're intellectual, social, diverse, multi-disciplinary and consequential. That's why I'm __so__ getting a job in the field. I'm thirsty, and there's a whole river in front of me.
 
-Before this, I have been a brand strategist and (twice) agency co-founder. Both these agencies now thrive without my involvement, which is not the worst thing you could say about people.
+Before this, I have been a brand strategist and (twice) agency co-founder. Both these agencies now thrive without my involvement, which is not the worst thing you could say about someone.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
