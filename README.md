@@ -1,24 +1,24 @@
 ## Stefan Liute
 
+[Github](http://github.com/sliute) | [LinkedIn](http://uk.linkedin.com/in/stefanliute) | [Twitter](http://www.twitter.com/stefanliute) | [Codewars](http://www.codewars.com/users/sliute)
+
 Hey. I'm a newly-minted, full-stack junior developer in London, UK.
 
-I'm the analytic type. I'm curious, so I learn a lot, all the time. I also make my team go round. I can spin a good story. All these things work from day one.
+I'm the analytic type. I'm curious, so I learn a lot, all the time. I share what I learn. I make my team go round. I can spin a good story. Most importantly, I get things done. All these things work from day one.
 
-I love programming for the kind of challenges it offers: they're intellectual, social, diverse, multi-disciplinary and consequential. That's why I'm __so__ getting a job in the field. I'm thirsty, and there's a whole river in front of me.
+I love programming for the kind of challenges it offers: they're intellectual, social, diverse, multi-disciplinary and consequential. That's why I'm _so_ getting a job in the field. I'm thirsty, and there's a whole river in front of me.
 
 Before this, I have been a brand strategist and (twice) agency co-founder. Both these agencies now thrive without my involvement, which is not the worst thing you could say about someone.
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 ## Projects
 
-Here are some of the things that made me happy while programming, before and during the Makers Academy pre-course. !!! TO BE UPDATED IN WEEK 10 !!!
-
 | Project | Summary | Technologies |
 | --- | --- | --- |
-| [projectSnitch](http://github.com/sliute/projectSnitch) | Using a Raspberry Pi and some simple wiring via its GPIO ports, I devised a very crude flooding detector (my home boiler is finicky). The detector is designed to turn on a LED (and potentially send a text) if water accumulates on my kitchen floor and thus closes an electrical circuit. | JavaScript, Cylon.js |
-| [The Millionth Fibonacci Kata (Codewars)](https://github.com/sliute/codewars/blob/master/CW-22-themillionthfibonaccikata.rb) | While preparing for the pre-course, I took on a kata way above my current Codewars rank because I was fascinated by the mathematical apparatus behind it. I read about it in an MIT textbook, solved an equation and translated everything into working Ruby code. Note that the kata required an efficient algorithm, not just solving a problem. | Ruby |
-| [Statistics for an Athletic Association (Codewars)](https://github.com/sliute/codewars/blob/master/CW-29-statisticsforanathleticassociation.rb) | This was one of my first katas done with pair programming. It wasn't particularly hard to solve, but the thought dynamics and the collaboration pair programming allows were a watershed moment. Working with someone else is so much more powerful and rewarding than working alone. I had a lot to learn from it. | Ruby, pair programming :smirk: |
+| [Majordomo repo](https://github.com/sliute/majordomo) and [Heroku demo](https://majordomo-makers.herokuapp.com/) | A team project for an office room-booking web app. Users can book rooms in their workplace and view the status of a room (busy/available). | Ruby on Rails, PostgreSQL with Active Record, JavaScript, jQuery and Bootstrap, HTML5, HAML, Datetimepicker, SimpleCalendar, Rspec-rails, Capybara |
+| [MakersBnB repo](https://github.com/sliute/MakersBnB-challenge) and [Heroku demo](https://mabnb.herokuapp.com/) | A team project for an AirBnB clone. | Ruby, Sinatra, PostgreSQL with DataMapper, Javascript, jQuery and Bootstrap, Rspec, Capybara |
+| [Instagram Challenge repo](https://github.com/sliute/instagram-challenge) | A solo project for an Instagram clone. | Ruby on Rails, PostgreSQL with Active Record, HAML, SimpleForm, PaperClip, Factory Girl Rails, JavaScript, Bootstrap SASS |
 
 ## Skills
 
@@ -52,14 +52,15 @@ I co-founded [a branding and digital agency](http://www.grapefruit.ro), as well 
 
 ## Education
 
-#### [Makers Academy](http://www.makersacademy.com) (London, UK), January-March 2017
+#### [Makers Academy](http://www.makersacademy.com) (London, UK), January-March, 2017
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for programming
 - Independent learner and problem-solver
-- OOP, SOLID, TDD, BDD, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript
-- Rspec, Jasmine
+- XP values
+- OOP, SOLID, TDD, BDD, MVC, DDD
+- Ruby, Rails, Javascript, jQuery, CSS, Bootstrap, HTML5
+- Rspec, Capybara, Jasmine, Mocha
 
 #### [Faculty of Communication and Public Relations](http://comunicare.ro/en/), SNSPA (Bucharest, RO), 2002-2004
 
@@ -79,20 +80,20 @@ I co-founded [a branding and digital agency](http://www.grapefruit.ro), as well 
 
 ## Experience
 
-**Co-founder & Strategy Director: [STORIENCE](http://www.storience.com)** (London, UK) Jul 2012 - present
+**Co-founder & Strategy Director: [Storience](http://www.storience.com)** (London, UK) Jul 2012 - present
 - Co-founded this branding consultancy with colleague and partner Adriana Liute, and expanded into London in September 2014    
 - Coordinated all branding projects; some of them have won international awards
 - Developed brand strategies. Provided creative direction to the design team; worked with multiple graphic & web designers on over 50 digital and non-digital projects
 - Created names, slogans and nomenclature systems for industries ranging from healthcare to education and fashion
 - Developed and delivered branding and communication training to professional audiences in Bucharest and London
 
-**Associate Professor: [UNIVERSITY OF BUCHAREST](http://www.unibuc.ro)** (Bucharest, RO) Oct 2007 - Jun 2014
+**Associate Professor: [University of Bucharest](http://www.unibuc.ro)** (Bucharest, RO) Oct 2007 - Jun 2014
 
 - Developed and taught the Strategic Brand Management course to post-graduate students at the Faculty of Journalism and Communication Sciences
 - Accumulated over 300 hours of university teaching
 - Achieved top attendance and student satisfaction levels every year
 
-**Co-founder & Strategy Director: [GRAPEFRUIT](http://www.grapefruit.ro)** (Bucharest, RO) Nov 1999 - Jun 2012
+**Co-founder & Strategy Director: [Grapefruit](http://www.grapefruit.ro)** (Bucharest, RO) Nov 1999 - Jun 2012
 
 - Co-founded this branding and digital agency with 2 other fellow medical students
 - Coordinated all branding projects; over a dozen have won international awards
@@ -107,9 +108,3 @@ I co-founded [a branding and digital agency](http://www.grapefruit.ro), as well 
 - strategy games
 - swimming
 - cycling
-
-## Contact
-- [Github](http://github.com/sliute)
-- [LinkedIn](http://uk.linkedin.com/in/stefanliute)
-- [Twitter](http://www.twitter.com/stefanliute)
-- [Codewars](http://www.codewars.com/users/sliute)
