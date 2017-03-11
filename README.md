@@ -2,7 +2,9 @@
 
 [Github](http://github.com/sliute) | [LinkedIn](http://uk.linkedin.com/in/stefanliute) | [Twitter](http://www.twitter.com/stefanliute) | [Codewars](http://www.codewars.com/users/sliute)
 
-Hey. I'm a newly-minted, full-stack junior developer in London, UK.
+Hey.
+
+I'm a newly-minted, full-stack junior developer in London, UK.
 
 I'm the analytic type. I'm curious, so I learn a lot, all the time. I share what I learn. I make my team go round. I can spin a good story. Most importantly, I get things done. All these things work from day one.
 
@@ -18,7 +20,7 @@ Before this, I have been a brand strategist and (twice) agency co-founder. Both 
 | --- | --- | --- |
 | [Majordomo repo](https://github.com/sliute/majordomo) and [Heroku demo](https://majordomo-makers.herokuapp.com/) | A team project for an office room-booking web app. Users can book rooms in their workplace and view the status of a room (busy/available). | Ruby on Rails, PostgreSQL with Active Record, JavaScript, jQuery and Bootstrap, HTML5, HAML, Datetimepicker, SimpleCalendar, Rspec-rails, Capybara |
 | [MakersBnB repo](https://github.com/sliute/MakersBnB-challenge) and [Heroku demo](https://mabnb.herokuapp.com/) | A team project for an AirBnB clone. | Ruby, Sinatra, PostgreSQL with DataMapper, Javascript, jQuery and Bootstrap, Rspec, Capybara |
-| [Instagram Challenge repo](https://github.com/sliute/instagram-challenge) | A solo project for an Instagram clone. | Ruby on Rails, PostgreSQL with Active Record, HAML, SimpleForm, PaperClip, Factory Girl Rails, JavaScript, Bootstrap SASS |
+| [Instagram Challenge repo](https://github.com/sliute/instagram-challenge) | A solo project for an Instagram clone. | Ruby on Rails, PostgreSQL with Active Record, HAML, SimpleForm, PaperClip, Factory Girl Rails, JavaScript, jQuery and Bootstrap SASS, Rspec-rails, Capybara |
 
 ## Skills
 
