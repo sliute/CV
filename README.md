@@ -6,11 +6,11 @@ Hey.
 
 I'm a newly-minted, full-stack junior developer in London, UK.
 
-I'm the analytic type. I'm curious, so I learn a lot, all the time. I share what I learn. I make my team go round. I can spin a good story. Most importantly, I get things done. All these things work from day one.
+My team is my home, so I share everything and I do everything it takes to go round, always get better, and get things done. I'm the analytic type, but I can also tell a story. I'm curious, so I learn a lot, all the time. All these things work from day one.
 
 I love programming for the kind of challenges it offers: they're intellectual, social, diverse, multi-disciplinary and consequential. That's why I'm _so_ getting a job in the field. I'm thirsty, and there's a whole river in front of me.
 
-Before this, I have been a brand strategist and (twice) agency co-founder. Both these agencies now thrive without my involvement, which is not the worst thing you could say about someone.
+Before this, I have been a brand strategist and (twice) agency co-founder. I have been fortunate to be part of great teams in both cases, and these agencies now thrive without my involvement. Which is not the worst thing you could say about someone.
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
