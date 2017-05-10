@@ -18,7 +18,9 @@ Before this, I have been a brand strategist and (twice) agency co-founder. I hav
 
 | Project | Summary | Technologies |
 | --- | --- | --- |
-| [Majordomo repo](https://github.com/sliute/majordomo) and [Heroku demo](https://majordomo-makers.herokuapp.com/) | A team project for an office room-booking web app. Users can book rooms in their workplace and view the status of a room (busy/available). | Ruby on Rails, PostgreSQL with Active Record, JavaScript, jQuery and Bootstrap, HTML5, HAML, Datetimepicker, SimpleCalendar, Rspec-rails, Capybara |
+| [FTHeadliner repo] (https://github.com/sliute/ftheadliner) and [Heroku demo](https://majordomo-makers.herokuapp.com/) | A solo project (tech test) for an API-driven news headlines app (responsive, progressive enhancement, with neither client-side frameworks nor jQuery by design) | Node.js, Express.js, Origami, Dotenv, Mocha & Chai |
+| [Alexa Skill: Makers Rooms repo] (https://github.com/sliute/AlexaBookEvent) | A team project for a meeting room booking app for Makers Academy. Users can book rooms in their workplace and hear about the status of a room (busy/available), all via Amazon's Alexa voice-driven user interface. | Node.js, Alexa-App-Server, AWS (Lambda, DynamoDB, Alexa Skills Kit), Mocha & Chai |
+| [Majordomo repo](https://github.com/sliute/majordomo) | A team project for an office room-booking web app. Users can book rooms in their workplace and view the status of a room (busy/available). | Ruby on Rails, PostgreSQL with Active Record, JavaScript, jQuery and Bootstrap, HTML5, HAML, Datetimepicker, SimpleCalendar, Rspec-rails, Capybara |
 | [MakersBnB repo](https://github.com/sliute/MakersBnB-challenge) and [Heroku demo](https://mabnb.herokuapp.com/) | A team project for an AirBnB clone. | Ruby, Sinatra, PostgreSQL with DataMapper, Javascript, jQuery and Bootstrap, Rspec, Capybara |
 | [Instagram Challenge repo](https://github.com/sliute/instagram-challenge) | A solo project for an Instagram clone. | Ruby on Rails, PostgreSQL with Active Record, HAML, SimpleForm, PaperClip, Factory Girl Rails, JavaScript, jQuery and Bootstrap SASS, Rspec-rails, Capybara |
 
